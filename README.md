@@ -1,43 +1,88 @@
-# Lesson Title
-
-All Readmes should follow a similar format when it comes to structure. Please
-refer to the [style guide][] for a detailed explaination of standards.
-
-## Learning Goals
-
-- [Check out this Readme on writing Learning Goals][goals]
+# React/Redux Project Planning Resources
 
 ## Introduction
 
-Sometimes called an Overview, this section should contain a brief summary of
-what the lesson contains. Great introductions present a problem that is solved
-by the concepts reviewed in this lesson.
+The final project is where you get to demonstrate all that you have learned
+throughout your time as a student at Flatiron!
 
-## Contents
+**Use this document to help you complete this [planning form][]**
 
-Lessons often contain multiple sections of content. Use the Learning Goals
-you've defined to guide you on what sections and sub-sections are needed.
+## How to Get Started On a Successful Project Build
 
-Refer to [this guide for assistance when writing Readmes][readmes]
+1. Read through the project requirements here carefully before getting started.
 
-## Conclusion
+2. Come up with a project idea of your own, and devote some time to a planning
+   session. Think about the following:
 
-Wrap up the lesson with a brief review of what was covered. This is often a good
-place to connect the concepts discussed within a larger context.
+   a. What will your app do? What is the user
+   experience?
+   b. What data will you store in your database?
+   c. What data will you keep track of in your redux store? Will you need local
+   state in any of your components, too?
 
-## Resources
+[Use this form][[planning form]] to jot down your plans and submit it to us so we can see what you
+are planning!
 
-This is an optional section, but list and link to resources, articles, and
-websites that you think will be beneficial for additional reading. Also, if your
-written contents included external links, it may be good to add a second
-reference here:
+We are here to help!  Each week, there are Open Office Hour [study groups][]
+specifically designed to help with React/Redux project questions. Keep an eye
+out for our React/Redux topic-based [study groups][], too!
 
-- [Style Guide][style guide]
-- [Writing Learning Goals][goals]
-- [Writing Readmes][readmes]
+### Making a User story
 
-[style guide]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/style_guide.md
-[goals]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/creation-content-focus-learning_objectives.md
-[readmes]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/creation-content-focus-writing_readme.md
+- Who is your User?
+- What is their pain point?
+- How do they use our solution to overcome this problem?
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/readme-template' title='Readme Template.'>Readme Template.</p>
+> **Example**: Sally is trying to get into hiking and wants to keep track of her
+> favorite trails.  Sally wants a place to write notes about each trail and her
+> experiences:
+>
+> - Sally is able to enter trail information and notes through a form
+> - She can navigate to an index page to see all her previous hikes
+> - Sally can see more detailed information about a specific hike by clicking on
+>   it
+  
+### Documentation and Source Code
+
+[React Docs][]
+[Redux Docs][]
+[React Source Code][]
+[Redux Source Code][]
+[React-Redux Source Code][]
+
+### Handy Tools and Resources
+
+[Functional Components vs. Class Components][]
+[ReactJS: TypeError: Cannot read property 'map' of undefined][]
+[Rails API with React Frontend][]
+
+### Debugging Tools
+
+[React Dev Tools Extension][]
+[Redux Dev Tools Extension][]
+[Debugger][]
+[console.log()][]
+
+### Demo projects
+
+[Expense Tracker Backend](https://github.com/Awilmerding1/expenses-backend)
+[Expense Tracker Frontend](https://github.com/Awilmerding1/expenses-frontend)
+
+### Videos
+
+[Expense Tracker (Pt 1- 10)](https://instruction.learn.co/student/video_lectures#/?query=expense)
+
+[study groups]: https://learn.co/study-groups
+[React Docs]: https://reactjs.org/
+[Redux Docs]: https://redux.js.org/
+[React Source Code]: https://github.com/facebook/react/tree/master/packages/react/src
+[Redux Source Code]: https://github.com/reduxjs/redux/tree/master/src
+[React-Redux Source Code]: https://github.com/reduxjs/react-redux/tree/master/src/connect
+[Functional Components vs. Class Components]: https://overreacted.io/how-are-function-components-different-from-classes/
+[ReactJS: TypeError: Cannot read property 'map' of undefined]: https://stackoverflow.com/questions/50845894/reactjs-typeerror-cannot-read-property-map-of-undefined
+[Rails API with React Frontend]: https://www.fullstackreact.com/articles/how-to-get-create-react-app-to-work-with-your-rails-api/
+[React Dev Tools Extension]: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+[Redux Dev Tools Extension]: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+[Debugger]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger
+[console.log()]: https://developer.mozilla.org/en-US/docs/Web/API/Console/log
+[planning form]: https://docs.google.com/forms/d/e/1FAIpQLSeJoyq3AHFylEUWmdMh7mrv7aFW7aDJd5KKbj45OWBIzGqUnw/viewform
