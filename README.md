@@ -24,7 +24,7 @@ throughout your time as a student at Flatiron!
    c. What data will you keep track of in your redux store? Will you need local
    state in any of your components, too?
 
-[Use this form][[planning form]] to jot down your plans and submit it to us so we can see what you
+[Use this form][planning form] to jot down your plans and submit it to us so we can see what you
 are planning!
 
 We are here to help!  Each week, there are Open Office Hour [study groups][]
