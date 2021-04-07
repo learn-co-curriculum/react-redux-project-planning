@@ -13,7 +13,7 @@ throughout your time as a student at Flatiron!
 
 ## How to Get Started On a Successful Project Build
 
-1. Read through the project requirements here carefully before getting started.
+1. Read through the [project requirements][] here carefully before getting started.
 
 2. Come up with a project idea of your own, and devote some time to a planning
    session. Think about the following:
@@ -90,3 +90,4 @@ out for our React/Redux topic-based [study groups][], too!
 [Debugger]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger
 [console.log()]: https://developer.mozilla.org/en-US/docs/Web/API/Console/log
 [planning form]: https://docs.google.com/forms/d/e/1FAIpQLSeJoyq3AHFylEUWmdMh7mrv7aFW7aDJd5KKbj45OWBIzGqUnw/viewform
+[project requirements]: https://github.com/learn-co-students/react-redux-assessment-v-000
